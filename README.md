@@ -85,15 +85,19 @@ The frontend will run on http://localhost:3000
 └── package.json
 ```
  ### Time Spent
- # Frontend
+ ## Frontend
  - Requirement Planning: 2 hours
  - Setting Up Code and Project Structure: 3 hours
  - Component Design: 4 hours
  - API Integration with React Query: 3 hours
  - Styling the UI: 2 hours
  
- # Backend
+ ## Backend
  - Requirement Planning: 2 hours
  - Setting Up Code and Project Structure: 2 hours
  - Endpoint Development: 2 hours
  - Developing Logic to Support Multiple Concurrent Jobs: 4 hours
+
+ ## Technical Design Document 
+
+ link : https://docs.google.com/document/d/15ddXaYRzNGKJR18knLmJutsAD21gI0UwRCu06aOUnl0/edit?usp=sharing
