@@ -16,7 +16,7 @@ A full-stack application for managing asynchronous jobs that fetch random food i
 ## Tech Stack
 
 ### Frontend
-- Next.js 13+ with App Router
+- Next.js 14+ with App Router
 - TypeScript
 - Tailwind CSS
 - shadcn/ui components
@@ -81,7 +81,19 @@ The frontend will run on http://localhost:3000
 │   ├── package.json
 │   └── tsconfig.json
 ├── components/
-├── lib/
 ├── app/
 └── package.json
 ```
+ ### Time Spent
+ # Frontend
+ - Requirement Planning: 2 hours
+ - Setting Up Code and Project Structure: 3 hours
+ - Component Design: 4 hours
+ - API Integration with React Query: 3 hours
+ - Styling the UI: 2 hours
+ 
+ # Backend
+ - Requirement Planning: 2 hours
+ - Setting Up Code and Project Structure: 2 hours
+ - Endpoint Development: 2 hours
+ - Developing Logic to Support Multiple Concurrent Jobs: 4 hours

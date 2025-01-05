@@ -98,7 +98,7 @@ export class JobService {
 
   private getRandomDelay(): number {
     const min = 5;
-    const max = 30;
+    const max = 300;
     const step = 5;
     const steps = Math.floor((max - min) / step);
     return (Math.floor(Math.random() * steps) * step + min) * 1000;
